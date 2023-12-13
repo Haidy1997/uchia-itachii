@@ -1,0 +1,20 @@
+#sida {background-color: black ;color: white}
+.par {background-color: #1e5568 ; color: white ; padding: 50px ; line-height: 25px ; font: bold} 
+.cover { background-image:url(Photo/uchia%20sasuke.jpg); background-size: cover; height: 600px ; color: white ; position: relative} 
+.cover h1 { font-family: sans-serif ; position: relative ; top: auto ; font-size: 60px ; position: absolute ; top: 35% ; left: 10% ; letter-spacing: 7px}
+body { margin: 0px; padding: 0px; direction: rtl}
+.grand { background-color: black ; color: white ; text-align: center ; padding: 50px}
+.grand .grp {width: 33% ; display: inline-block ;}
+.grand h2 {margin: 50px ; font-size: 50px ; font-family: fantasy ; }
+.grand .groups {margin-top: 40px}
+.grand  .grp img {width: 80%}
+.itachi {background-color: black ; color: white  ; font-family: sans-serif ; padding: 50px; margin: 0px}
+.team {background-color: #DADADA ; padding:50px ; margin: auto }
+.accordion  {padding: 50px ; background-color: #A8D1B1 ; margin: auto}
+#mapp {height: 300px}
+.container-fluid{direction: ltr}
+.uchiha {padding: 40px ; margin: auto}
+.uchiha h2 {padding: 20px ; background-color:#F5F5F5 }
+.uchiha p {padding: 40px ; background-color: #f5f5f5}
+footer {background-color: darkorchid; padding: 10px ; color: white}
+footer p {margin: 0px}
